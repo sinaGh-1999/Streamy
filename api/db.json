@@ -1,0 +1,75 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 3
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 4
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 5
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 6
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 7
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 8
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 9
+    },
+    {
+      "title": "my stream",
+      "description": "my stream",
+      "id": 10
+    },
+    {
+      "title": "new stream 2",
+      "description": " i  have created this stream 2",
+      "id": 11
+    },
+    {
+      "title": "edited stream",
+      "description": "i have edited this stream",
+      "id": 12
+    },
+    {
+      "title": "new 2",
+      "description": "new 2",
+      "id": 13
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "userId": "114673317288555761215",
+      "id": 14
+    }
+  ]
+}

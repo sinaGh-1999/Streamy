@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 3
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 4
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 5
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 6
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 7
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 8
+    },
+    {
+      "title": "my stream",
+      "description": "i am playing fortnite",
+      "id": 9
+    },
+    {
+      "title": "my stream",
+      "description": "my stream",
+      "id": 10
+    }
+  ]
+}
